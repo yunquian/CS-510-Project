@@ -1,14 +1,18 @@
-# CDL Hashtag Subsystem (backend)
+# CDL Hashtag Subsystem
 
-This project is an extension of the Community Digital Library []()
+This project is an extension of the Community Digital Library. It implements the following features/components of a hashtag subsystem:
+- Hashtag database
+- Automatic hashtag extraction from unstructured text
+- Hashtag disambiguation/recommendation
 
-The backend is a server that interacts with the CDL Chrome extension.
+The backend is located in the root directory, and the `webapp` dir contains a webapp for demo.
 
-The server consists of the following parts:
-- request handler (unimplemented): receives and handles the requests, calls core functions of the hashtag subsystem
-- core functionalities
-  - concept extraction
-    - for highlighted text
-    - for document text
-  - keyword search in db
-- database
+## Usage
+
+In the root dir run
+```
+flask --app server run
+```
+to start the backend server.
+
+In the `webapp` dir setup the React webapp with Next.js and run `npm run dev`
