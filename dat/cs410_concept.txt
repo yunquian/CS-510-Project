@@ -1,0 +1,1136 @@
+Double Barrel Least-Recently Used (DBLRU)
+maximum likelihood estimation
+Variable byte encoding
+ngram_pos_analyzer analyzer
+pull access mode
+databases
+MLE. See Maximum likelihood
+ranking
+unigram language model
+Scikit Learn toolkit
+Opinion mining
+Relevant word counts in EM algorithm
+ordinal regression
+Clusters and clustering
+corpusname.dat.labels file
+Feature generation for tokenizers
+Multiclass classification
+(SVM) classifiers
+Under-constrained queries
+background language model
+Binary logistic regression
+Clustering bias
+Views
+document length normalization
+multiple queries
+non-text data
+C++ language
+Office documents
+Naive Bayes
+Root-mean squared error (RMSE)
+Story understanding
+mining topics from text
+Multimode interactive access
+document
+Index 493
+Beta-gamma threshold learning
+EM algorithm. See Expectationmaximization (EM) algorithm
+Segmentation in LARA
+Cross validation in text categorization
+IR (information retrieval) systems
+Modules in content-based filtering
+robots.txt file
+text data access
+Semantically related terms in clustering
+Sentence vectors in extractive summarization
+Index 505
+vectors
+semantically related terms
+log-likelihood functions
+Knowledge Graph
+Joint probabilities
+Unified systems
+Word counts
+syntagmatic relations
+162–165
+Concepts in vector space model
+Learning modules in content-based
+Whitespace tokenizers
+Long-range jumps in multimode interactive
+Porter2 English Stemmer
+inferring knowledge about
+mutual information
+Ratings
+Exhaustivity in sentiment classification
+HITS algorithm
+Naive Bayes algorithm
+MMR reranking
+Representative documents in search engine
+Short-range walks in multimode interactive
+269–270
+vs. ranking
+analysis
+Short-term needs in pull access mode
+Wilcoxon signed-rank test
+language models
+Evaluation
+probabilistic retrieval model algorithms
+Model-based clustering algorithms
+Modification in NLP
+Search engine implementation
+functions
+topics as word distributions
+Overfitting problem
+(NDCG)
+Indirect citations in web searches
+indexes
+Negative feelings
+Pseudo data in LDA
+Neural language model
+BM25 model
+clustering
+probabilistic retrieval model
+Access modes
+Model files for META toolkit
+Collect function
+Kolmogorov axioms
+Indirect opinions
+Natural language processing (NLP)
+Query vectors
+Cleaning HTML files
+WeightedTextObjectSet data type
+vs. database retrieval
+Language models
+Frequency and frequency counts
+Hub pages in web searches
+311–313
+word association
+Centroid vectors
+content-based recommendation
+feedback
+line_corpus input format
+E step in EM algorithm
+System architecture in unified systems
+Significance tests in search engine
+Structured data
+Objective statements vs. subjective
+Advertising
+ranked lists
+Mining topics from text
+OVA (one-vs-all) method
+BM25+ model
+Categories
+Forward indexes
+methods
+Subjective sensors
+Text summarization
+model. See KL-divergence
+Unseen words
+word association mining
+Inlink counts in PageRank
+General EM algorithm
+Sentiment analysis
+461–462
+Weka toolkit
+Rankers for search engines
+CPLSA
+Data types in text analysis
+common form
+SyntacticDiff method
+probabilistic retrieval model. See
+Web searches
+Edit features in text categorization
+Nearest-centroid classifiers
+tokenizing
+MapReduce framework
+Dot products
+smoothing methods
+International Components for Unicode
+discovering
+dynamic content
+HTML files
+Linear classifiers in text categorization
+Classification
+Ordinal regression
+494 Index
+Parallel indexing and searching
+Valence scoring
+Data-User-Service Triangle
+Implicit feedback
+Map Reduce paradigm
+Power iteration for PageRank
+Component models
+NDCG@k score
+multimode interactive
+Dirichlet prior smoothing
+model
+Divergence-from-randomness models
+Gamma function
+Split counts in EM algorithm
+Summarization. See Text summarization
+Instructor reader category
+summary
+Bayes’ rule
+Index 497
+documents
+Matrix multiplication in PageRank
+Sequences of words in NLP
+indexing
+Word sense disambiguation in NLP
+Collapsed Gibbs sampling
+Maximum likelihood estimation (MLE)
+TextObjectSequence data type operators
+Observers
+DCG (discounted cumulative gain)
+Nodes in word associations
+F1 score
+Matrices
+Topic analysis
+MapReduce
+Indexes
+Information access in text information
+document selection
+Grammatical parse trees
+Unsupervised clustering algorithms
+Classifiers in text categorization
+Accuracy in search engine evaluation
+Selection
+Tokenization
+classification algorithms
+Soft rules in text categorization
+Term clustering
+database data retrieval
+Associations
+Google File System (GFS)
+Content in opinion mining
+SVM (state-of-the-art support vector
+LDA
+hyperparameters
+probabilistic. See Probabilistic retrieval
+BM25 TF transformation
+behavior
+text analysis operator
+Browsing
+contextual
+Postings files for inverted indexes
+syntagmatic relations discovery
+n-gram language models
+Stylistic analysis in NLP
+Authority pages in web searches
+text data analysis
+Vertical search engines
+Video data mining
+Utility
+URLs and crawlers
+Compact clusters
+access
+Effectiveness in search engine evaluation
+Sparse priors in Dirichlet distribution
+search engines
+Long-term needs in push access mode
+ranked lists evaluation
+Recommender systems
+vector space. See Vector space (VS)
+text analysis operators
+400–409
+Indri/Lemur search engine toolkit
+Predictive analysis for non-text data
+LRU (Least-Recently Used) caches
+178–180
+word2vec skip-gram
+Lucene search engine toolkit
+Mutual information
+Low-level lexical features in text categorization
+Word segmentation in NLP
+Shallow analysis in NLP
+Thesaurus discovery in NLP
+Product reviews in opinion mining
+Kernel trick for linear classifiers
+Reviews
+Two-component mixture model
+Similarity algorithm for clustering
+compressed
+Sensors
+Measurements in search engine evaluation
+scores
+Events
+Compression ratio
+Intersection operator
+Mean reciprocal rank (MRR)
+unigram language models
+Predictors features in joint analysis
+paradigmatic relations
+MMR (maximal marginal relevance)
+Integration of information access in web
+MRR (mean reciprocal rank)
+Stemming process in META toolkit
+All-vs-all (AVA) method
+popularity
+vs. selection
+filtering
+agglomerative hierarchical
+query model
+362–364
+Generative models
+searches
+Classes
+K-means document clustering
+500 Index
+Reciprocal ranks
+neural language model
+LIBSVM package
+Opinion summarization
+Terrier search engine toolkit
+Maps in multimode interactive access
+mining for
+RMSE (root-mean squared error)
+Separation in text clustering
+analyzers::filters namespace
+Discourse analysis in NLP
+Queries
+text clustering
+binomial distribution
+433–439
+Proximity heuristics for inverted indexes
+Icu_filter filter
+Multinomial parameters in Bayesian
+Stop word removal
+Opinion analysis in text summarization
+Causal topic mining
+n-fold cross validation
+feedback in
+Probabilistic retrieval models
+Word-level ambiguity in NLP
+Knowledge discovery in text summarization
+paradigmatic relations discovery
+Hierarchical clustering
+465–469
+Joint analysis of text and structured data
+Network supervised topic models
+text-based forecasting
+compression
+Binomial estimation
+vector measurement
+(continued)
+Supervised LDA (sLDA)
+META analyses
+Probabilistic latent semantic analysis
+Speech acts in NLP
+usefulness
+MAP (Maximum a Posteriori) estimate
+AVA (all-vs-all) method
+Pragmatic analysis in NLP
+general procedure
+Social networks as context
+Lifelong learning in web searches
+Specificity in sentiment classification
+Perspective in text data analysis
+length_filter filter
+MLE
+Unsupervised machine learning
+Emotion analysis
+Selective dissemination of information
+applications
+as unified system
+Mining
+TR (text retrieval)
+Document clustering
+Feelings. See Sentiment analysis
+Regularizers in network supervised topic
+Q-function
+system architecture
+Parsing
+statistical language models
+as subjective sensors
+Local maxima
+Icu_tokenizer tokenizer
+Organization in text information systems
+Maximal marginal relevance (MMR)
+Aspect opinion analysis
+Time series context in topic analysis
+Filters
+Policy design
+Brown clustering
+classification
+508 Index
+Unicode)
+text mining tasks
+Rocchio feedback
+Joint distributions for mutual information
+DBLRU
+Logical predicates in NLP
+opinion mining
+Push access mode
+Breadth-first crawler searches
+overview
+Topic coverage
+Syntactic structures in NLP
+support for
+Similarity functions and measures
+Pseudo-segments for mutual information
+TREC filtering tasks
+High-level syntactic features
+collaborative filtering
+bit vector representation
+Word valence scoring
+libsvm_analyzer analyzer
+Probability space
+Information theory
+Disaster response
+Logistic regression in sentiment classification
+Link analysis
+vector space retrieval models
+Likelihood and likelihood function
+networks from
+490 Index
+CPLSA (Contextual Probabilistic Latent
+Bayesian statistics
+Beta distribution
+character_tokenizer tokenizer
+Adjacency matrices
+LRU
+Machine-generated data
+Partitioning
+Navigational queries
+Index 501
+caching
+Similarity in clustering
+mixture model behavior
+309–311
+Normalized similarity algorithm
+Entity-relation re-creation
+KL-divergence
+Constraints in PLSA
+content-based filtering
+Automatic evaluation in text clustering
+POS (part-of-speech) tags
+Polarity analysis in sentiment classification
+basics
+Translation
+query likelihood retrieval model
+Ruby language
+Tight clusters
+Average-link document clustering
+Vectors
+n-gram class language models
+systems
+Conceptual framework in text information
+Usability in search engine evaluation
+Cosine similarity
+vector space model
+forward
+Transformations
+Okapi
+predictive analysis
+Configuration files
+fetch_docs function
+Information retrieval (IR) systems
+vector space model. See Vector space (VS)
+multi-level judgments
+tasks
+347–350
+103–104
+humans as subjective sensors
+Log-likelihood function
+325–326
+GFS (Google File System)
+Content analysis modules
+Maximization algorithm for document
+Dynamic coefficient interpolation in
+forward_index indexes
+TF (term frequency)
+opinion mining. See Opinion mining
+Realization in abstractive summarization
+Document IDs
+map function
+text
+Speech recognition
+categories
+Pointwise Mutual Information (PMI)
+Focused crawling
+pseudo counts
+Terms
+168–170
+Add-1 smoothing
+Berkeley study
+full structure parsing
+Frequency transformation in paradigmatic
+Semantic Analysis)
+Eliza project
+Perceptron classifiers
+introduction
+Real world properties
+Impact
+Common sense knowledge in NLP
+465
+Common words
+Inverted indexes
+Statistical machine learning
+formula
+Index 507
+one-vs-all method
+filters
+text data
+Bayesian parameter estimation
+topics
+350–351
+Entropy
+Random numbers in abstractive summarization
+classify command
+Normalized discounted cumulative gain
+Search engine toolkits
+State-of-the-art support vector machines
+Cranfield evaluation methodology
+Denial of service from crawlers
+Big text data
+design philosophy
+abstractive
+Average precision
+BM25 score
+Ambiguity
+(MLE)
+Zipf’s law
+Citations
+text representation
+list_filter filter
+Okapi BM25 model
+text retrieval overview
+HITS
+Files in Google File System
+Integrity in text data access
+Personalization in web searches
+Feedback documents in unigram language
+Gibbs sampling
+Iterative algorithms for PageRank
+Statistics. See Probability and statistics
+Logarithms in probabilistic retrieval model
+Blind feedback
+Text categorization
+Relevant text data
+Binomial distribution
+document clustering
+about
+Probability ranking principle
+Knowledge acquisition in text information
+Unstructured text access
+Bayes’ rule (continued)
+Sublinear transformation
+practical issues
+maximum likelihood parameter
+search engine evaluation
+Complete data for EM algorithm
+Sparse data in Naive Bayes algorithm
+Domains
+M step
+Bias
+Jelinek-Mercer smoothing
+Named entity recognition
+document selection vs. document
+Lower bound of likelihood in EM algorithm
+PageRank
+Expectation-maximization (EM) algorithm
+mining topics from text. See Mining
+Spiders for web searches
+Retrieval models
+index sharding
+web content
+search engine implementation
+Document language model
+demand for
+Natural language generation in text
+Symbolic approach in NLP
+F-test for time series context
+mining
+Gaussian distribution
+Smoothing techniques
+probabilistic models and applications
+Full structure parsing
+Intrusion detection
+generative models
+449
+Bigrams
+University of California Berkeley study
+content-based
+text categorization rules
+Practitioners reader category
+analyzers::tokenizers namespace
+reranking (continued)
+TF-IDF weighting
+Probability distributions
+Union operator
+probability distributions
+opinions
+Background models
+Ranked lists evaluation
+Integer compression
+Confusion matrices
+feedback implementation
+Document-at-a-time ranking
+Split operator for text analysis
+web search ranking
+Hyperparameters
+techniques
+Conditional entropy
+sentiment classification methods
+468–469
+Visualization in text information systems
+porter2_stemmer filter
+Crawlers
+Linear interpolation in Jelinek-Mercer
+graph
+reset command
+Term frequency (TF)
+Known item searches in ranked lists
+multimode interactive access
+classifiers
+evaluating
+Hill-climbing algorithm
+Block world project
+text retrieval vs. database retrieval
+set retrieval
+Text data analysis overview
+376
+corpusname.dat.gz file
+views in multimode interactive access
+Decision modules in content-based
+multinomial parameters
+Generation-based text summarization
+Continuous distributions
+IUF (inverse user frequency)
+smoothing
+Bit vector representation
+Part-of-speech (POS) tags
+Gain in search engine evaluation
+Aggregating
+description
+Interactive task support in web searches
+Themes in CPLSA
+ranking vs. selecting
+Mixture models
+30–31
+no_evict_cache caches
+term
+One-vs-all (OVA) method
+Symmetry in document clustering
+TF weighting
+Probability and statistics
+Discrete distributions
+Unigram language models
+MLE. See Maximum likelihood estimation
+Index 495
+MAP estimate
+Patterns
+Zhai
+Random access decoding in compression
+mining. See Mining; Mining topics from
+Term-at-a-time ranking
+Index sharding
+Manual evaluation for text clustering
+Student reader category
+311–312
+Google PageRank
+Interpret operator
+cleaning html files
+Kullback-Leibler divergence retrieval
+Tags
+Dendrograms
+(ICU)
+267–268
+Regression
+Delta bitwise compression
+text information systems
+Context (continued)
+generalized
+Metadata
+Dependent random variables
+Incremental crawling
+Current technology
+unified systems
+Text annotation. See Text categorization
+Grammar learning
+web. See Web searches
+methodology
+caches
+crawlers
+Incomplete data in EM algorithm
+Term IDs
+Inverted index chunks
+mixture models
+Dynamically generated content and
+estimation (MLE)
+document language model
+Signed-rank tests in search engine
+187
+Lexicons for inverted indexes
+recommender systems. See Recommender systems
+Bayesian smoothing
+implementation
+Selection-based text summarization
+Syntactic analysis in NLP
+tree_analyzer analyzer
+Interpolation for smoothing methods
+Collaborative filtering
+Block compression
+Coverage
+WordNet ontology
+Content-based filtering
+Absolute discounting
+Granger test
+(PLSA)
+Text data understanding. See Natural
+retrieval models
+Threshold settings in content-based
+libsvm_corpus file
+Corpus input formats in META toolkit
+Paradigmatic relations
+Uniform priors in Dirichlet distribution
+META toolkit
+Filter chains for tokenization
+time series context
+Index 499
+Logic-based approach in NLP
+Select operator
+Weighted k-nearest neighbors algorithm
+Machine translation
+Contextual Probabilistic Latent Semantic
+496 Index
+term clustering
+Pseudo counts
+Random observations in search engine
+incomplete vs. complete data
+247–248
+Single-link document clustering
+TextObject data type operators
+WeightedTextObjectSequence data type
+Text management and analysis in unified
+186–187
+502 Index
+dependent
+words tokenizers
+Inverse user frequency (IUF)
+improvement possibilities
+Business intelligence
+Humans
+Data-driven social science research
+Precision
+p-values in search engine evaluation
+Properties
+Word vectors in text clustering
+NetPLSA model
+Spatiotemporal patterns in CPLSA
+machine learning
+Pull access mode
+joint and conditional probabilities
+Common form of retrieval models
+Fault tolerance in Google File System
+Instance-based classifiers
+smoothing techniques
+Probabilistic inference
+statistical
+network supervised topic models
+bitwise
+341
+extractive
+Overlap of words in paradigmatic relations
+Lazy learners in text categorization
+Latent Aspect Rating Analysis (LARA)
+Anaphora resolution in natural language
+in probabilistic retrieval model
+SDI (selective dissemination of information)
+n-gram models
+Searches
+Document frequency
+document length
+Normalized ratings in collaborative
+probabilistic models
+Dependency parsers
+gz_corpus input format
+text summarization
+GFS
+Vector space (VS) retrieval models
+evaluation metrics
+Axiomatic thinking
+Navigating maps in multimode interactive
+Scorers
+364–365
+web search algorithms
+Statistical language models
+improved instantiation
+Document length
+Text representation in NLP
+TISs (text information systems)
+ngram_word_analyzer analyzer
+Divisive clustering
+estimate
+Expected value in Beta distribution
+domains
+exercises
+topics as
+Initialization modules in content-based
+Text clustering
+185–186
+topic analysis
+topics as terms
+NLP. See Natural language processing (NLP)
+vByte encoding
+time series
+sentiment classification
+EM algorithm
+sentiment
+News summaries
+Index 491
+analysis)
+tokenizers
+Natural language
+Development sets for text categorization
+Binary classification
+Bernoulli distribution
+Data mining
+META as
+joint analysis
+reduce function
+adjacency
+conceptual framework
+Complete-link document clustering
+measurements
+506 Index
+Market research
+Trigrams in frequency analysis
+expectation-maximization
+Topic coherence in time series context
+Sign tests in search engine evaluation
+architecture
+Python language
+Lexical analysis in NLP
+Presupposition in NLP
+Information extraction
+categorical distributions
+307–309
+Magazine output
+Ad hoc retrieval
+Coherence in text clustering
+Collection language model
+Geographical networks
+Word embedding in term clustering
+Random variables
+Text
+Normalization
+setting up
+Sparse Beta
+score_term function
+Probability density function (pdf)
+G-means algorithm
+Empirically defined problems
+Multiple occurrences in vector space model
+NLTK toolkit
+Abstractive text summarization
+BM25-F model
+Distances in clusters
+Inferred opinions
+Text clustering (continued)
+implementation. See Search engine
+Inverse document frequency (IDF)
+Pointwise Mutual Information
+Operators in text analysis systems
+Sticky phrases in Brown clustering
+Deep analysis in natural language
+Index 503
+probability
+summarization
+Training and training data
+Centroids in document clustering
+text categorization
+Baseline accuracy in text categorization
+Ranking
+Logarithm transformation
+Least-Recently Used (LRU) caches
+F measure
+document-at-a-time ranking
+models
+purpose
+related toolkits
+Latent Rating Regression
+real world properties
+Expected overlap of words in paradigmatic
+NLP
+Discriminative classifiers
+general idea of
+125–126
+of text and structured data
+Variables
+estimation
+PLSA
+Breakeven point precision
+engine evaluation
+Positive feelings
+Query likelihood retrieval model
+Statistical significance tests in search
+Weights
+text. See Text clustering
+Producer-initiated recommendations
+social networks as context
+mixture model estimation
+MAP (mean average precision)
+Test collections in Cranfield evaluation
+sLDA (supervised LDA)
+text mining
+498 Index
+Efficiency
+k-nearest neighbors algorithm
+frequency analysis
+Social science research
+Art retrieval models
+document ranking
+Agglomerative clustering
+Optimization in web searches
+term frequency
+Versions
+Pooling in search engine evaluation
+Distinguishing categories
+Set retrieval evaluation
+Subjective statements vs. objective
+TopicExtraction operator
+Symmetric probabilities in information
+K-means
+language processing (NLP)
+Pseudo feedback
+probabilistic
+Cold start problem
+operators
+Bitwise compression
+Enron email dataset
+Bayesian estimate
+Posterior distribution
+60–61
+history and state of the art
+Therapist application
+Add-1
+data
+Background words
+CG (cumulative gain) in NDCG
+Opinion holders
+Transition matrices in PageRank
+binomial estimation and beta distribution
+reranking
+extractive summarization
+Interactive access
+Cumulative gain (CG) in NDCG
+469–470
+word associations
+word association. See Word association
+Redundancy
+Email counts
+processing
+term-at-a-time ranking
+inverted indexes
+humans as
+relations
+ICU (International Components for
+Non-text data
+504 Index
+257–258
+Documents
+Bag-of-words
+Context variables in topic analysis
+Supervised machine learning
+Random surfers in PageRank
+PageRank technique
+Bigram language model
+Pdf (probability density function)
+Scoring functions
+Recommendations in text information
+Exploration-exploitation tradeoff in
+Anchor text in web searches
+topics from text
+Social media in text data analysis
+Bayes
+theory
+Topic maps in multimode interactive
+set retrieval evaluation
+(SDI)
+Discounted cumulative gain (DCG)
+Jaccard similarity
+Gamma bitwise compression
+Pivoted length normalization
+random. See Random variables
+Maximum a Posteriori (MAP) estimate
+mixture unigram language model
+IDF (inverse document frequency)
+gain)
+Latent Dirichlet Allocation (LDA)
+Stanford NLP toolkit
+Unigrams
+Architecture
+forward indexes
+background language models
+K-nearest neighbors (k-NN) algorithm
+link analysis
+web searches
+Skip-gram neural language model
+whitespace_tokenizer command
+492 Index
+pipeline
+multinomial distribution
+inverted_index indexes
+Linearly separable data points in linear
+linear classifiers
+Pearson correlation
+joint analysis with structured data. See
+Memory-based approach in collaborative
+machines) classifiers
+Posterior probability in Bayesian parameter
+contextual text mining
+Vectors (continued)
+Feedback
+Text data access
+168–169
+frequency
+Knowledge provenance in unified systems
+Precision-recall curves in ranked lists
+Semantic analysis in NLP
+Text information systems (TISs)
+F measure (continued)
+Analyzers in META toolkit
+abstractive summarization
+76–77
+Term vectors
+Iterative Causal Topic Modeling
+Scientific research
+287–288
+Caching
+E-discovery (electronic discovery)
+Frame of reference encoding
+Syntactic ambiguity in NLP
+classification algorithms overview
+opinion. See Opinion mining; Sentiment
+TF transformation
+VS retrieval models. See Vector space (VS)
+Personalized PageRank
+cleaning HTML files
+Symmetric Beta
+Joint analysis of text and structured
+Multiple queries in ranked lists evaluation
+toolkits
+Database retrieval
+Extractive summarization
+Independent random variables
+probabilistic retrieval models
+Word relations
+filtering documents
+access modes
+bag-of-words representation
+Unary bitwise compression
+Mean average precision (MAP)
+Search engine queries
+Key-value pairs in MapReduce
+Massung
+Multi-level judgments in search engine
+Search engine evaluation
+Binary hidden variables in EM algorithm
+Generative classifiers
+entropy of
+Negative feedback documents
+Repeated crawling
+Temporal trends in CPLSA
+122–123
+precision and recall
+joint analysis with text. See Joint analysis
+systems. See Unified systems
+Machine learning
+problem
+Initial values in EM algorithm
+Ad hoc information needs
+Text retrieval (TR)
+12–13
+Inferences
+Multivariate Gaussian distribution
+Newspaper output
+retrieval
+lower bound of likelihood
+scorers
+Decision boundaries for linear classifiers
+Bar-Hillel report
+Bayesian inference
+transition
+Conditional probabilities
+navigational
+452–453
+Multiple-level sentiment analysis
+corpusname.dat.labels.gz file
+marginal
+information theory
+features
+Context
+profile command
+Syntagmatic relations
+Unimodel Beta
+Decision support
+Parallel crawling
+social networks as
+Word distributions
+instantiation
+Shadow analysis in NLP
+Coin flips
+skewed distributions
+LIBLINEAR algorithm
+languages for
+Graph mining
+text categorization for
+Design philosophy
+evaluation
+Scalability in web searches
+PMI
+Targets in opinion mining
+Over-constrained queries
+Stemmed words in vector space model
+Length normalization
+Synonyms
+118
+future of
+Features for text categorization
+model summary
+Word association mining
+extension
+Clickthroughs
+266–268
+Scanning inverted indexes
+vs. text
+Learners
+context
+Marginal probabilities
+LARA
+Compare operator
+Compression
+Recall in set retrieval evaluation
+sentiment classification. See Sentiment
+PLSA (probabilistic latent semantic
+Relevance and relevance judgments
+overfitting problem
+Co-occurrences in mutual information
+Trends in web searches
+Hidden variables
+Prior probability in Bayesian parameter
+Correlations
+NDCG (normalized discounted cumulative
+file_corpus input format
+Observed world
+Text-based prediction
+Text organization in text information
+block
+Analysis (CPLSA)
+Illinois NLP Curator toolkit
+Parameters
+Electronic discovery (E-discovery)
+Spam in web searches
+Testing data
+Geometric mean average precision (gMAP)
+Twitter searches
+Query expansion
+PL2 model
+corpusname.dat file
+Dirichlet distribution
+DBLRU (Double Barrel Least-Recently Used)
+Lagrange Multiplier approach
+tokenization
+Multinomial distributions
+Rule-based text categorization
